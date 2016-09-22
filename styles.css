@@ -1,6 +1,7 @@
 .google {
   padding-top: 20%;
   text-align: center;
+  font-family: futura;
 }
 
 a:link {
@@ -10,4 +11,20 @@ a:link {
 a:visited {
     text-decoration: none;
     color: black;
+}
+
+.blue {
+  color: #4885ed;
+}
+
+.red {
+  color: #db3236;
+}
+
+.yellow {
+  color: #f4c20d;
+}
+
+.green {
+  color: #3cba54
 }
